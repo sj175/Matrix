@@ -1,2 +1,2 @@
 # Matrix
-Python library for representing matrices
+Python package for representing matrices
